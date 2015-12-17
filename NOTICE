@@ -1,0 +1,21 @@
+A permutation test for within-subjects differences in global field power
+in unbalanced data
+
+For derivation, theory, and simulations using this test please see:
+Files, Lawhern, Ries & Marathe, "A permutation test for within-subjects 
+differences in global field power in unbalanced data," Brain Topography.
+
+If you use this code in support of a publication, please cite our paper.
+
+This project was supported by The U.S. Army Research Laboratory under a
+Director's Strategic Research Initiative entitled "Heterogeneous Systems
+for Information Variable Environments (HIVE)," an appointment to the U.S.
+Army Research Laboratory Postdoctoral Fellowship program administered by
+the Oak Ridge Associated Universities through a cooperative agreement
+with the U.S. Army Research Laboratory and the Office of the Secretary of
+Defense ARPI program MIPR DWAM31168. The views and conclusions contained
+in this document are those of the authors and should not be interpreted
+as representing the official policies, either expressed or implied, of
+the Army Research Laboratory or U.S. Government. The U.S. Government is
+authorized to reproduce and distribute reprints for Government purposes
+notwithstanding any copyright notation herein.
